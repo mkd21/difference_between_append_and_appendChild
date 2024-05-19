@@ -1,0 +1,9 @@
+--> append is used to append the HTML elements at the end of the desired element 
+--> append has no return type 
+--> can take multiple arguements be it a strings , nodes
+and 
+
+--> appendChild is used to append the node at the end of the desired element 
+--> appendChild returns the node which it has appended
+--> will not take multiple arguements 
+
